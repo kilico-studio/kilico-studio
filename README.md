@@ -26,4 +26,10 @@ The name comes from *Kılıç*, Turkish for "sword": two crossed blades and a ri
 
 🛠️ Our first game is in development. More soon.
 
+### Follow us
+
+<p>
+  <a href="https://www.instagram.com/kilico.studio/"><img alt="Instagram @kilico.studio" src="https://img.shields.io/badge/Instagram-@kilico.studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
 <p align="center"><sub>© Kilico Studio</sub></p>
