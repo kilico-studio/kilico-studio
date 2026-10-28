@@ -12,7 +12,7 @@
 ### Hi, we're Kilico Studio 👋
 
 We build games for mobile and PC. Strategy, puzzle, action — we follow the idea, not the genre.
-The name comes from *kılıç*, Turkish for "sword": two crossed blades and a ring are our mark.
+The name comes from *Kılıç*, Turkish for "sword": two crossed blades and a ring are our mark.
 
 ### What we work with
 
